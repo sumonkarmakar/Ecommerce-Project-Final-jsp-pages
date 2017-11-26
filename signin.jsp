@@ -14,6 +14,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular-route.js"></script>
 	<!--Stylesheet cdn-->
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+   <link rel="stylesheet" type="text/css" href="index.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--End of head tag-->
 	</head>

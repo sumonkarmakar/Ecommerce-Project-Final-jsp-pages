@@ -5,9 +5,9 @@
 		<title>Ecommerce Project</title>
 		<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!--bootstrap cdn-->
-  
+    <!--jquery cdn-->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <!--bootstrap cdn-->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   	<!--Angular cdn-->
   	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
@@ -119,7 +119,7 @@
 						    <button type="button" class="btn btn-primary">Book</button>
 						  </div>
 					</div>
-					<div class="col-sm-4" style="background-color:lavenderblush;">
+					<div class="col-sm-4" style="background-color:lavender;">
 						<h2>Product 3</h2>
 						  <div class="panel panel-default">
 						    <div class="panel-heading">Panel Heading</div>
@@ -133,7 +133,7 @@
 		</div>
 		<!--End of body tag-->
 	</body>
-
+	<!--footer tag-->
 	<footer>
 		<div align="center">
 			<p>Shopping Cart Project</p>
@@ -142,5 +142,6 @@
 				<a href="suman.talkto@gmail.com">suman.talkto@gmail.com</a>
 			</p>
 		</div>
+		<!--end of footer tag-->
 	</footer>
 </html>
